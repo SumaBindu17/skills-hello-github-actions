@@ -1,5 +1,5 @@
-name: Comment on Issue
- 
+name: Issue1
+
 on:
   issues:
     types: [opened]
